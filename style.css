@@ -1,0 +1,52 @@
+body {
+    background-image: url("background.png");
+    font-family: Arial;
+    font-size: larger;
+}
+
+header{
+    background-color: white;
+    border: 1px solid black;
+    height: 50px;
+    width:  200px;
+    padding-top: 25px;
+    text-align: center;
+    margin: 0 auto;
+    border-radius: 5px;
+}
+
+nav {
+    margin-top: 140px;
+    text-decoration: none;
+    background-color: none;
+}
+
+nav a {
+    text-decoration: none;
+    background-color: none;
+    color: black;
+}
+
+nav p {
+    display: block;
+    margin: 0;
+    background-color: white;
+    height: 50px;
+    width:200px;
+    border: 1px solid black;
+    text-align: center;
+    padding-top: 30px;
+    border-radius: 5px;
+}
+
+section img {
+    margin-left: 900px;
+    margin-top: -220px;
+}
+
+footer {
+    text-align: center;
+    margin-top: 130px;
+    border-radius: 5px;
+    background-color: white;
+}
